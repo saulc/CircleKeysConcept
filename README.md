@@ -7,13 +7,13 @@ This is an example of a custom input concept.
 
 Screenshots
 ===================================
-![alt text](https://github.com/saulc/CircleKeysConcept/screens/Screenshot_0.png)
+![Alt text](/screens/Screenshot_0.png "image 1")
 
-![alt text](https://github.com/saulc/CircleKeysConcept/screens/Screenshot_1.png)
+![Alt text](/screens/Screenshot_1.png "image 2")
 
-![alt text](https://github.com/saulc/CircleKeysConcept/screens/Screenshot_2.png)
+![Alt text](/screens/Screenshot_2.png "image 3")
 
-![alt text](https://github.com/saulc/CircleKeysConcept/screens/Screenshot_3.png)
+![Alt text](/screens/Screenshot_3.png "image 4")
 
 
 Based on Android BasicMultitouch Sample
