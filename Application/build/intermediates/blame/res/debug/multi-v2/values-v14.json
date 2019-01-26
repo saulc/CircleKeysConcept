@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/saul/Documents/github/android/Multitouch/Application/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "23",
+                        "startColumns": "4",
+                        "startOffsets": "826",
+                        "endLines": "25",
+                        "endColumns": "12",
+                        "endOffsets": "970"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "199"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Sat Jan 26 00:25:01 PST 2019
+base.0=/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

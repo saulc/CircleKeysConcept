@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    build-mode="HOT_WARM"
+    density="mdpi"
+    format="10"
+    plugin-version="3.2.1"
+    timestamp="1548496299362"
+    token="-3695746645722400236"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="161" />
+    <task
+        name="instant-run-dex"
+        duration="130" />
+    <task
+        name="instant-run-transform"
+        duration="31" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1548492455627"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/instant-run-apk/debug/Application-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1548495232890"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/instant-run-apk/debug/Application-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548495271770"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/builds/debug/1548495271770/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548495286044"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/builds/debug/1548495286044/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548495301111"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/builds/debug/1548495301111/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548495362730"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/builds/debug/1548495362730/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548495384529"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/builds/debug/1548495384529/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548495395479"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/builds/debug/1548495395479/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548495433277"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/builds/debug/1548495433277/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548496245344"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/builds/debug/1548496245344/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548496299362"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

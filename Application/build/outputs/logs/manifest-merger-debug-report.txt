@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:18:1-41:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/6121cf88868e68eb1780da82361a5b4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-28.0.0.aar/f9c372b60250953ef63f1c9c2f7e67be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/4172c3ce7c36eca01590f2b3909b6f21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a648be26df0339d4476d6cf2ff735fa9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/6e8fcabbe0b4949a27c4663ae363d6bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a4fccf3e9161704cfbb5c11663883495/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9e3f98b665a529ba1f301ef885de19bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/71c4c9cdc40e5c316ca084c4479102e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f79971d100704332e52fea8e079ecf6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/da2534226290bca5801b3203c71c9d7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/41ef131543b4f5868610e80059ab4067/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/76bde9e741717fa2017c2469ec58272a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/16eb7e3a7b4b3d285cff087b0ee976e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/249d4c66302a6cf560d0585a7d895822/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/cac72d4f515e43833fb74adb64323a5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2f82f45174a7ece767534726953f3e2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/47933e5990c99dfd723dde7b40c87bfe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c05611bfb33015a12023d9edd370b34d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5b6d3597641a295dd87266ff98de540d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3c7d6401097a0a1419604f138c0056a1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/34236c3e6caefe220f4ca1c5ce9fb7e8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8bd57b40e10e092d0ccb417531e60b51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/da4eaa568a6c8ebf6efef6a60f89e6d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/400e5c2656e8fe9f0cc563e6fbaea939/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3dddad7a5e23bc14b091c018a68576ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2cd91db9ddf11c4a91790fd2fb4fbe45/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/588b938f6c879556a7959236d5c696d9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/31cd03b6ebe39f0f8543581afed40155/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8c8de31e724248aa522ec8ec685b81a1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97ec83160c1ac17506bad8a956990152/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:19:5-50
+	android:versionName
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
+application
+ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:25:5-39:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5b6d3597641a295dd87266ff98de540d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5b6d3597641a295dd87266ff98de540d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3c7d6401097a0a1419604f138c0056a1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3c7d6401097a0a1419604f138c0056a1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5b6d3597641a295dd87266ff98de540d/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:29:9-40
+activity#com.example.android.basicmultitouch.MainActivity
+ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/6121cf88868e68eb1780da82361a5b4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/6121cf88868e68eb1780da82361a5b4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-28.0.0.aar/f9c372b60250953ef63f1c9c2f7e67be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-28.0.0.aar/f9c372b60250953ef63f1c9c2f7e67be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/4172c3ce7c36eca01590f2b3909b6f21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/4172c3ce7c36eca01590f2b3909b6f21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a648be26df0339d4476d6cf2ff735fa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a648be26df0339d4476d6cf2ff735fa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/6e8fcabbe0b4949a27c4663ae363d6bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/6e8fcabbe0b4949a27c4663ae363d6bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a4fccf3e9161704cfbb5c11663883495/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a4fccf3e9161704cfbb5c11663883495/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9e3f98b665a529ba1f301ef885de19bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9e3f98b665a529ba1f301ef885de19bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/71c4c9cdc40e5c316ca084c4479102e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/71c4c9cdc40e5c316ca084c4479102e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f79971d100704332e52fea8e079ecf6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f79971d100704332e52fea8e079ecf6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/da2534226290bca5801b3203c71c9d7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/da2534226290bca5801b3203c71c9d7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/41ef131543b4f5868610e80059ab4067/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/41ef131543b4f5868610e80059ab4067/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/76bde9e741717fa2017c2469ec58272a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/76bde9e741717fa2017c2469ec58272a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/16eb7e3a7b4b3d285cff087b0ee976e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/16eb7e3a7b4b3d285cff087b0ee976e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/249d4c66302a6cf560d0585a7d895822/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/249d4c66302a6cf560d0585a7d895822/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/cac72d4f515e43833fb74adb64323a5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/cac72d4f515e43833fb74adb64323a5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2f82f45174a7ece767534726953f3e2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/2f82f45174a7ece767534726953f3e2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/47933e5990c99dfd723dde7b40c87bfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/47933e5990c99dfd723dde7b40c87bfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c05611bfb33015a12023d9edd370b34d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c05611bfb33015a12023d9edd370b34d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5b6d3597641a295dd87266ff98de540d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5b6d3597641a295dd87266ff98de540d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3c7d6401097a0a1419604f138c0056a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3c7d6401097a0a1419604f138c0056a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/34236c3e6caefe220f4ca1c5ce9fb7e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/34236c3e6caefe220f4ca1c5ce9fb7e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8bd57b40e10e092d0ccb417531e60b51/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8bd57b40e10e092d0ccb417531e60b51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/da4eaa568a6c8ebf6efef6a60f89e6d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/da4eaa568a6c8ebf6efef6a60f89e6d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/400e5c2656e8fe9f0cc563e6fbaea939/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/400e5c2656e8fe9f0cc563e6fbaea939/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3dddad7a5e23bc14b091c018a68576ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3dddad7a5e23bc14b091c018a68576ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2cd91db9ddf11c4a91790fd2fb4fbe45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/saul/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2cd91db9ddf11c4a91790fd2fb4fbe45/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/588b938f6c879556a7959236d5c696d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/588b938f6c879556a7959236d5c696d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/31cd03b6ebe39f0f8543581afed40155/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/31cd03b6ebe39f0f8543581afed40155/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8c8de31e724248aa522ec8ec685b81a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8c8de31e724248aa522ec8ec685b81a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97ec83160c1ac17506bad8a956990152/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/saul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97ec83160c1ac17506bad8a956990152/AndroidManifest.xml:20:5-44
+INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/saul/Documents/github/android/Multitouch/Application/src/main/AndroidManifest.xml
