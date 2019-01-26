@@ -5,9 +5,13 @@ Introduction
 
 This is an example of a custom input concept.
 
+Screenshots
+===================================
+![alt text](https://github.com/saulc/CircleKeysConcept/screens/*.png)
 
 
-based on Android BasicMultitouch Sample
+
+Based on Android BasicMultitouch Sample
 ===================================
 
 Sample demonstrates the use of [MotionEvent][1] properties to keep track of
