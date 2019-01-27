@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/saul/Documents/github/android/Multitouch/CircleKeysConcept/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/saul/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/6e8fcabbe0b4949a27c4663ae363d6bd/res/values/values.xml",
@@ -59,26 +59,26 @@
                     }
                 },
                 {
-                    "source": "/Users/saul/Documents/github/android/Multitouch/Application/src/main/res/values/template-styles.xml",
+                    "source": "/Users/saul/Documents/github/android/Multitouch/CircleKeysConcept/Application/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "24,20,22,27,29,34",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "768,651,713,849,878,1075",
-                        "endLines": "24,20,22,27,32,39",
-                        "endColumns": "51,60,53,27,12,12",
-                        "endOffsets": "815,707,762,872,1069,1348"
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "789",
+                        "endLines": "27",
+                        "endColumns": "12",
+                        "endOffsets": "1086"
                     },
                     "to": {
-                        "startLines": "1972,3348,3349,3357,3454,3458",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "109277,200908,200968,201693,209429,209625",
-                        "endLines": "1972,3348,3349,3357,3457,3463",
-                        "endColumns": "50,59,52,26,12,12",
-                        "endOffsets": "109323,200963,201016,201715,209620,209898"
+                        "startLines": "1965",
+                        "startColumns": "4",
+                        "startOffsets": "108975",
+                        "endLines": "1971",
+                        "endColumns": "12",
+                        "endOffsets": "109272"
                     }
                 },
                 {
-                    "source": "/Users/saul/Documents/github/android/Multitouch/Application/src/main/res/values/base-strings.xml",
+                    "source": "/Users/saul/Documents/github/android/Multitouch/CircleKeysConcept/Application/src/main/res/values/base-strings.xml",
                     "from": {
                         "startLines": "18,19",
                         "startColumns": "4,4",
@@ -116,22 +116,20 @@
                     }
                 },
                 {
-                    "source": "/Users/saul/Documents/github/android/Multitouch/Application/src/main/res/values/styles.xml",
+                    "source": "/Users/saul/Documents/github/android/Multitouch/CircleKeysConcept/Application/src/main/res/values/template-dimens.xml",
                     "from": {
-                        "startLines": "21",
-                        "startColumns": "4",
-                        "startOffsets": "789",
-                        "endLines": "27",
-                        "endColumns": "12",
-                        "endOffsets": "1086"
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "959,880,836,791,748,706,1029",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1024,918,875,831,786,743,1092"
                     },
                     "to": {
-                        "startLines": "1965",
-                        "startColumns": "4",
-                        "startOffsets": "108975",
-                        "endLines": "1971",
-                        "endColumns": "12",
-                        "endOffsets": "109272"
+                        "startLines": "1848,1849,1850,1851,1852,1853,1881",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "101986,102056,102099,102143,102188,102231,103916",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "102051,102094,102138,102183,102226,102268,103979"
                     }
                 },
                 {
@@ -154,20 +152,22 @@
                     }
                 },
                 {
-                    "source": "/Users/saul/Documents/github/android/Multitouch/Application/src/main/res/values/template-dimens.xml",
+                    "source": "/Users/saul/Documents/github/android/Multitouch/CircleKeysConcept/Application/src/main/res/values/template-styles.xml",
                     "from": {
-                        "startLines": "28,24,23,22,21,20,29",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "959,880,836,791,748,706,1029",
-                        "endColumns": "69,42,43,44,42,41,67",
-                        "endOffsets": "1024,918,875,831,786,743,1092"
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "768,651,713,849,878,1075",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "815,707,762,872,1069,1348"
                     },
                     "to": {
-                        "startLines": "1848,1849,1850,1851,1852,1853,1881",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "101986,102056,102099,102143,102188,102231,103916",
-                        "endColumns": "69,42,43,44,42,41,67",
-                        "endOffsets": "102051,102094,102138,102183,102226,102268,103979"
+                        "startLines": "1972,3348,3349,3357,3454,3458",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "109277,200908,200968,201693,209429,209625",
+                        "endLines": "1972,3348,3349,3357,3457,3463",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "109323,200963,201016,201715,209620,209898"
                     }
                 },
                 {

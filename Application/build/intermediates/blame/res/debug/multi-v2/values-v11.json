@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "/Users/saul/Documents/github/android/Multitouch/CircleKeysConcept/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "/Users/saul/Documents/github/android/Multitouch/Application/src/main/res/values-v11/styles.xml",
+                    "source": "/Users/saul/Documents/github/android/Multitouch/CircleKeysConcept/Application/src/main/res/values-v11/styles.xml",
                     "from": {
                         "startLines": "22",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/saul/Documents/github/android/Multitouch/Application/src/main/res/values-v11/template-styles.xml",
+                    "source": "/Users/saul/Documents/github/android/Multitouch/CircleKeysConcept/Application/src/main/res/values-v11/template-styles.xml",
                     "from": {
                         "startLines": "19",
                         "startColumns": "4",

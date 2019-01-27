@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/saul/Documents/github/android/Multitouch/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
+            "outputFile": "/Users/saul/Documents/github/android/Multitouch/CircleKeysConcept/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
             "map": [
                 {
                     "source": "/Users/saul/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5b6d3597641a295dd87266ff98de540d/res/values-sr/values-sr.xml",
